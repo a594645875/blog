@@ -1,5 +1,5 @@
 # Java技能树
-Java技能树,以树状的方式总结Java所需的技能总结和技术细节.
+Java技能树,以树状的方式总结Java所需的技能和技术细节.
 
 ## Java基础
 #### 基本语法
@@ -82,3 +82,18 @@ Java技能树,以树状的方式总结Java所需的技能总结和技术细节.
 #### TCP/IP
 #### 网络安全
 ## 踩坑集锦
+- [踩坑记录之Dubbo](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BDubbo.md)
+- [踩坑记录之Thymeleaf](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BThymeleaf.md)
+- [踩坑记录之Vue](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BVue.md)
+- [踩过的坑之Docker](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BDocker.md)
+- [踩过的坑之Elastisearch](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BElastisearch.md)
+- [踩过的坑之FastJson](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BFastJson.md)
+- [踩过的坑之JPA](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BJPA.md)
+- [踩过的坑之Jenkins](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BJenkins.md)
+- [踩过的坑之Jwt鉴权](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BJwt%E9%89%B4%E6%9D%83.md)
+- [踩过的坑之Linux](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BLinux.md)
+- [踩过的坑之Mybatis](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BMybatis.md)
+- [踩过的坑之Mysql](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BMysql.md)
+- [踩过的坑之Office文件导出](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BOffice%E6%96%87%E4%BB%B6%E5%AF%BC%E5%87%BA.md)
+- [踩过的坑之Spring-Cloud](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BSpring-Cloud.md)
+- [踩过的坑之日志框架](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8B%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6.md)
