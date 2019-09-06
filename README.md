@@ -7,7 +7,7 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节,构建�
 
 ##  Java基础
 - #### 基础知识
-[极客时间：杨晓峰-java核心技术36讲](https://github.com/a594645875/blog/blob/master/Java%20base/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%EF%BC%9A%E6%9D%A8%E6%99%93%E5%B3%B0-java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF36%E8%AE%B2.md)    
+[极客时间：杨晓峰-java核心技术36讲（未完成）](https://github.com/a594645875/blog/blob/master/Java%20base/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%EF%BC%9A%E6%9D%A8%E6%99%93%E5%B3%B0-java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF36%E8%AE%B2.md)    
 Demo [Java8Practice](https://github.com/a594645875/Java8Practice)    
 - #### 集合
 - #### 工具类
@@ -16,7 +16,7 @@ Demo基础IO练习 [IO-study](https://github.com/a594645875/IO-study)
 - #### 多线程和并发
 Demo基础线程练习[Thread-study](https://github.com/a594645875/Thread-study)  
 - #### JVM虚拟机
-[JVM深入理解-张龙](https://github.com/a594645875/blog/blob/master/Java%20base/JVM%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-%E5%BC%A0%E9%BE%99.md)  
+[JVM深入理解-张龙（未完成）](https://github.com/a594645875/blog/blob/master/Java%20base/JVM%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-%E5%BC%A0%E9%BE%99.md)  
 
 ##  数据管理
 - #### 数据库设计
@@ -108,7 +108,7 @@ Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)
 - #### Storm/JStorm
 ##  前端
 - #### Vue
-[Vue 之vue-cli安装](https://github.com/a594645875/blog/blob/master/Front%20end/Vue%20%E4%B9%8Bvue-cli%E5%AE%89%E8%A3%85.md)  
+[Vue-cli的安装](https://github.com/a594645875/blog/blob/master/Front%20end/Vue%20%E4%B9%8Bvue-cli%E5%AE%89%E8%A3%85.md)  
 
 - #### Bootstrap
 - #### FreeMarker
@@ -132,17 +132,17 @@ Demo [grovvy](https://github.com/a594645875/grovvy)
 - #### HTTP
 - #### TCP/IP
 - #### 网络安全
-XSS
-SQL注入问题
-防盗链
-互联网API接口幂等设计
-互联网API接口安全设计
-安全加密方案
-非对称与对称加密的使用
+XSS  
+SQL注入问题  
+防盗链  
+互联网API接口幂等设计  
+互联网API接口安全设计  
+安全加密方案  
+非对称与对称加密的使用  
 ## 踩坑集锦
-[踩坑记录之Dubbo](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BDubbo.md)  
-[踩坑记录之Thymeleaf](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BThymeleaf.md)  
-[踩坑记录之Vue](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BVue.md)  
+[踩坑的坑之Dubbo](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BDubbo.md)  
+[踩坑的坑之Thymeleaf](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BThymeleaf.md)  
+[踩坑的坑之Vue](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BVue.md)  
 [踩过的坑之Docker](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BDocker.md)  
 [踩过的坑之Elastisearch](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BElastisearch.md)  
 [踩过的坑之FastJson](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BFastJson.md)  
