@@ -1,5 +1,6 @@
 # Java技能树
-- By JacksonChen
+By JacksonChen
+
 Java技能树,以树状的方式总结Java所需的技能和技术细节.
 
 ##  Java基础
