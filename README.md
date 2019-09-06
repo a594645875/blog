@@ -121,6 +121,7 @@ Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)
 ##  开发工具
 - #### IDEA
 - #### Git
+[Git 命令](https://github.com/a594645875/blog/blob/master/Developer%20kits/Git%20%E5%91%BD%E4%BB%A4.md)  
 - #### Maven
 - #### Gradle
 Demo [gradle](https://github.com/a594645875/gradle)  
