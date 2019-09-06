@@ -29,11 +29,11 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.   —�
 ##  流行框架
 ### CRUD框架
 #### Spring/SpringMVC/SpringBoot
+#### Mybatis/MybatisPlus
 - [Mybatis 开启二级缓存](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/Mybatis%20%E5%BC%80%E5%90%AF%E4%BA%8C%E7%BA%A7%E7%BC%93%E5%AD%98.md)
 - 代码生成器Demo [mp-generator](https://github.com/a594645875/mp-generator)
 - Demo [mybatis-plus-demo](https://github.com/a594645875/mybatis-plus-demo)
 - Demo [ssm-demo](https://github.com/a594645875/ssm-demo)
-#### Mybatis/MybatisPlus
 #### Hibernate/JPA
 ### 权限框架
 #### Shiro
