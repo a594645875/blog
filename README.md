@@ -73,11 +73,11 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.
 
 #### Kubernetes
 #### DFS
-[FastDFS 搭建FastDFS文件上传服务器](https://github.com/a594645875/blog/blob/master/Deployment%20operations/FastDFS%20%E6%90%AD%E5%BB%BAFastDFS%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
+- [FastDFS 搭建FastDFS文件上传服务器](https://github.com/a594645875/blog/blob/master/Deployment%20operations/FastDFS%20%E6%90%AD%E5%BB%BAFastDFS%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 #### Tomcat
 #### Nginx
-[Nginx 使用Nginx解决跨域问题](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%20%E4%BD%BF%E7%94%A8Nginx%E8%A7%A3%E5%86%B3%E8%B7%A8%E5%9F%9F%E9%97%AE%E9%A2%98.md)
-[Nginx 搭建CDN服务器](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%20%E6%90%AD%E5%BB%BACDN%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
+- [Nginx 使用Nginx解决跨域问题](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%20%E4%BD%BF%E7%94%A8Nginx%E8%A7%A3%E5%86%B3%E8%B7%A8%E5%9F%9F%E9%97%AE%E9%A2%98.md)
+- [Nginx 搭建CDN服务器](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%20%E6%90%AD%E5%BB%BACDN%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 
 ## 分布式架构方案
 #### 分布式任务调度平台
