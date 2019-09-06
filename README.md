@@ -1,7 +1,7 @@
 # Java技能树
 Java技能树,以树状的方式总结Java所需的技能和技术细节.
 
-## Java基础
+##  Java基础
 #### 基础知识
 - [极客时间：杨晓峰-java核心技术36讲](https://github.com/a594645875/blog/blob/master/Java%20base/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%EF%BC%9A%E6%9D%A8%E6%99%93%E5%B3%B0-java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF36%E8%AE%B2.md)
 #### 集合
@@ -11,7 +11,7 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.
 #### JVM虚拟机
 - [JVM深入理解-张龙](https://github.com/a594645875/blog/blob/master/Java%20base/JVM%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-%E5%BC%A0%E9%BE%99.md)
 
-## 数据管理
+##  数据管理
 #### 数据库设计
 #### Mysql
 - [Mysql 优化](https://github.com/a594645875/blog/blob/master/Data%20administration/Mysql%20%E4%BC%98%E5%8C%96.md)
@@ -23,7 +23,7 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.
 - [Redis 搭建Redis-Sentinel高可用集群](https://github.com/a594645875/blog/blob/master/Data%20administration/Redis%20%E6%90%AD%E5%BB%BARedis-Sentinel%E9%AB%98%E5%8F%AF%E7%94%A8%E9%9B%86%E7%BE%A4.md)
 
 #### Memocached
-## 流行框架
+##  流行框架
 ### CRUD框架
 #### Spring/SpringMVC/SpringBoot
 - [Mybatis 开启二级缓存](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/Mybatis%20%E5%BC%80%E5%90%AF%E4%BA%8C%E7%BA%A7%E7%BC%93%E5%AD%98.md)
@@ -43,15 +43,14 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.
 - [Zookeeper](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Zookeeper%20%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD.md)
 #### Spring Cloud Alibaba
 ### 其他框架
-#### Kafka
-#### RabbitMQ
-#### Slf4j日志
-#### Quartz定时任务
-#### Solr,ElasticSearch搜索引擎
+#### 消息队列Kafka,RabbitMQ
+#### 日志Slf4j
+#### 定时任务Quartz
+#### 搜索引擎Solr,ElasticSearch
 #### Activity工作流
 #### Netty
 
-## 部署运维
+##  部署运维
 #### Linux
 - [Linux 常用命令](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Linux%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 - [Linux 概念学习,静态ip设置,远程登录设置,更换软件源](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Linux%20%E6%A6%82%E5%BF%B5%E5%AD%A6%E4%B9%A0.md)
@@ -81,18 +80,18 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.
 - [Nginx 使用Nginx解决跨域问题](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%20%E4%BD%BF%E7%94%A8Nginx%E8%A7%A3%E5%86%B3%E8%B7%A8%E5%9F%9F%E9%97%AE%E9%A2%98.md)
 - [Nginx 搭建CDN服务器](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%20%E6%90%AD%E5%BB%BACDN%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 
-## 分布式架构方案
+##  分布式架构方案
 #### 分布式任务调度平台
 #### 分布式Session一致性问题
 #### 分布式锁解决方案
 #### 分布式事务解决方案
 #### 分布式日志收集
 #### 分布式生成全局ID
-## 大数据
+##  大数据
 #### Hadoop
 #### Spark
 #### Storm/JStorm
-## 前端
+##  前端
 #### Vue
 - [Vue 之vue-cli安装](https://github.com/a594645875/blog/blob/master/Front%20end/Vue%20%E4%B9%8Bvue-cli%E5%AE%89%E8%A3%85.md)
 
@@ -100,21 +99,28 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.
 #### FreeMarker
 #### Thymeleaf
 #### EasyUI
-## 测试
+##  测试
 #### 单元测试junit
 #### 压力测试工具jmeter
 #### 自动化测试框架testNG
-## 开发工具
+##  开发工具
 #### IDEA
 #### Git
 #### Maven
 #### Gradle
-## 其他知识
+##  其他知识
 #### 设计模式
 #### 算法和数据结构
 #### HTTP
 #### TCP/IP
 #### 网络安全
+- XSS
+- SQL注入问题
+- 防盗链
+- 互联网API接口幂等设计
+- 互联网API接口安全设计
+- 安全加密方案
+- 非对称与对称加密的使用
 ## 踩坑集锦
 - [踩坑记录之Dubbo](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BDubbo.md)
 - [踩坑记录之Thymeleaf](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BThymeleaf.md)
