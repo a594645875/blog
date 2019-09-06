@@ -37,7 +37,9 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.
 ### 微服务框架
 #### Spring Cloud Netflix
 #### Apache Dubbo  Zookeeper
-- [Dubbo](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo.md)
+- [Dubbo 开启高速序列化](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E5%BC%80%E5%90%AF%E9%AB%98%E9%80%9F%E5%BA%8F%E5%88%97%E5%8C%96.md)
+- [Dubbo 管理中心搭建](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83%E6%90%AD%E5%BB%BA.md)
+- [Dubbo 结合熔断器Hystrix](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%BB%93%E5%90%88%E7%86%94%E6%96%AD%E5%99%A8Hystrix.md)
 - [Zookeeper](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Zookeeper%20%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD.md)
 #### Spring Cloud Alibaba
 ### 其他框架
