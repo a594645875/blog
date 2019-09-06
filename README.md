@@ -4,10 +4,13 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.   —�
 ##  Java基础
 #### 基础知识
 - [极客时间：杨晓峰-java核心技术36讲](https://github.com/a594645875/blog/blob/master/Java%20base/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%EF%BC%9A%E6%9D%A8%E6%99%93%E5%B3%B0-java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF36%E8%AE%B2.md)
+- Demo [Java8Practice](https://github.com/a594645875/Java8Practice)
 #### 集合
 #### 工具类
 #### 网络编程IO
+- 基础IO练习Demo [IO-study](https://github.com/a594645875/IO-study)
 #### 多线程和并发
+- 基础线程练习Demo[Thread-study](https://github.com/a594645875/Thread-study)
 #### JVM虚拟机
 - [JVM深入理解-张龙](https://github.com/a594645875/blog/blob/master/Java%20base/JVM%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-%E5%BC%A0%E9%BE%99.md)
 
@@ -27,27 +30,35 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.   —�
 ### CRUD框架
 #### Spring/SpringMVC/SpringBoot
 - [Mybatis 开启二级缓存](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/Mybatis%20%E5%BC%80%E5%90%AF%E4%BA%8C%E7%BA%A7%E7%BC%93%E5%AD%98.md)
-
+- 代码生成器Demo [mp-generator](https://github.com/a594645875/mp-generator)
+- Demo [mybatis-plus-demo](https://github.com/a594645875/mybatis-plus-demo)
+- Demo [ssm-demo](https://github.com/a594645875/ssm-demo)
 #### Mybatis/MybatisPlus
 #### Hibernate/JPA
 ### 权限框架
 #### Shiro
+- Demo [shiro-demo](https://github.com/a594645875/shiro-demo)
+#### Spring-Security
+- Demo [spring-security-demo](https://github.com/a594645875/spring-security-demo)
 #### JWT
 #### Spring Security oAuth2
 ### 微服务框架
 #### Spring Cloud Netflix
+- Demo [hello-spring-clould](https://github.com/a594645875/hello-spring-clould)
+- Demo [springclouddemo](https://github.com/a594645875/springclouddemo)
 #### Apache Dubbo  Zookeeper
 - [Dubbo 开启高速序列化](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E5%BC%80%E5%90%AF%E9%AB%98%E9%80%9F%E5%BA%8F%E5%88%97%E5%8C%96.md)
 - [Dubbo 管理中心搭建](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83%E6%90%AD%E5%BB%BA.md)
 - [Dubbo 结合熔断器Hystrix](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%BB%93%E5%90%88%E7%86%94%E6%96%AD%E5%99%A8Hystrix.md)
 - [Zookeeper](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Zookeeper%20%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD.md)
+- Dubbo简单Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)
 #### Spring Cloud Alibaba
 ### 其他框架
 #### 消息队列Kafka,RabbitMQ
 #### 日志Slf4j
 #### 定时任务Quartz
 #### 搜索引擎Solr,ElasticSearch
-#### Activity工作流
+#### 工作流Activity
 #### Netty
 
 ##  部署运维
@@ -108,6 +119,8 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.   —�
 #### Git
 #### Maven
 #### Gradle
+- Demo [gradle](https://github.com/a594645875/gradle)
+- Demo [grovvy](https://github.com/a594645875/grovvy)
 ##  其他知识
 #### 设计模式
 #### 算法和数据结构
