@@ -54,7 +54,7 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.
 ## 部署运维
 #### Linux
 - [Linux 常用命令](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Linux%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
-- [Linux 概念学习,静态皮设置,远程登录设置,更换软件源](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Linux%20%E6%A6%82%E5%BF%B5%E5%AD%A6%E4%B9%A0.md)
+- [Linux 概念学习,静态ip设置,远程登录设置,更换软件源](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Linux%20%E6%A6%82%E5%BF%B5%E5%AD%A6%E4%B9%A0.md)
 
 #### Docker
 - [Docker 启动mysql命令详解](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Docker%20%E5%90%AF%E5%8A%A8mysql%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3.md)
