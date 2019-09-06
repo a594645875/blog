@@ -8,9 +8,9 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.   —�
 #### 集合
 #### 工具类
 #### 网络编程IO
-- 基础IO练习Demo [IO-study](https://github.com/a594645875/IO-study)
+- Demo基础IO练习 [IO-study](https://github.com/a594645875/IO-study)
 #### 多线程和并发
-- 基础线程练习Demo[Thread-study](https://github.com/a594645875/Thread-study)
+- Demo基础线程练习[Thread-study](https://github.com/a594645875/Thread-study)
 #### JVM虚拟机
 - [JVM深入理解-张龙](https://github.com/a594645875/blog/blob/master/Java%20base/JVM%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-%E5%BC%A0%E9%BE%99.md)
 
@@ -31,7 +31,7 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.   —�
 #### Spring/SpringMVC/SpringBoot
 #### Mybatis/MybatisPlus
 - [Mybatis 开启二级缓存](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/Mybatis%20%E5%BC%80%E5%90%AF%E4%BA%8C%E7%BA%A7%E7%BC%93%E5%AD%98.md)
-- 代码生成器Demo [mp-generator](https://github.com/a594645875/mp-generator)
+- Demo代码生成器 [mp-generator](https://github.com/a594645875/mp-generator)
 - Demo [mybatis-plus-demo](https://github.com/a594645875/mybatis-plus-demo)
 - Demo [ssm-demo](https://github.com/a594645875/ssm-demo)
 #### Hibernate/JPA
@@ -51,7 +51,7 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.   —�
 - [Dubbo 管理中心搭建](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83%E6%90%AD%E5%BB%BA.md)
 - [Dubbo 结合熔断器Hystrix](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%BB%93%E5%90%88%E7%86%94%E6%96%AD%E5%99%A8Hystrix.md)
 - [Zookeeper](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Zookeeper%20%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD.md)
-- Dubbo简单Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)
+- Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)
 #### Spring Cloud Alibaba
 ### 其他框架
 #### 消息队列Kafka,RabbitMQ
