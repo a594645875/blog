@@ -38,10 +38,10 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.   —�
 ### 权限框架
 #### Shiro
 - Demo [shiro-demo](https://github.com/a594645875/shiro-demo)
-#### Spring-Security
-- Demo [spring-security-demo](https://github.com/a594645875/spring-security-demo)
+
 #### JWT
 #### Spring Security oAuth2
+- Demo [spring-security-demo](https://github.com/a594645875/spring-security-demo)
 ### 微服务框架
 #### Spring Cloud Netflix
 - Demo [hello-spring-clould](https://github.com/a594645875/hello-spring-clould)
