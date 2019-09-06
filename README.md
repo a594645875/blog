@@ -2,24 +2,32 @@
 Java技能树,以树状的方式总结Java所需的技能和技术细节.
 
 ## Java基础
-#### 基本语法
+#### 基础知识
+- [极客时间：杨晓峰-java核心技术36讲](https://github.com/a594645875/blog/blob/master/Java%20base/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%EF%BC%9A%E6%9D%A8%E6%99%93%E5%B3%B0-java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF36%E8%AE%B2.md)
 #### 集合
 #### 工具类
 #### 网络编程IO
 #### 多线程和并发
 #### JVM虚拟机
+- [JVM深入理解-张龙](https://github.com/a594645875/blog/blob/master/Java%20base/JVM%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-%E5%BC%A0%E9%BE%99.md)
+
 ## 数据管理
 #### 数据库设计
 #### Mysql
+- [Mysql 优化](https://github.com/a594645875/blog/blob/master/Data%20administration/Mysql%20%E4%BC%98%E5%8C%96.md)
 #### Oracle
 #### PostgreSQL
 #### MongoDB
 #### H2
 #### Redis
+- [Redis 搭建Redis-Sentinel高可用集群](https://github.com/a594645875/blog/blob/master/Data%20administration/Redis%20%E6%90%AD%E5%BB%BARedis-Sentinel%E9%AB%98%E5%8F%AF%E7%94%A8%E9%9B%86%E7%BE%A4.md)
+
 #### Memocached
 ## 流行框架
 ### CRUD框架
 #### Spring/SpringMVC/SpringBoot
+- [Mybatis 开启二级缓存](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/Mybatis%20%E5%BC%80%E5%90%AF%E4%BA%8C%E7%BA%A7%E7%BC%93%E5%AD%98.md)
+
 #### Mybatis/MybatisPlus
 #### Hibernate/JPA
 ### 权限框架
@@ -29,6 +37,8 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.
 ### 微服务框架
 #### Spring Cloud Netflix
 #### Apache Dubbo  Zookeeper
+- [Dubbo](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo.md)
+- [Zookeeper](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Zookeeper%20%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD.md)
 #### Spring Cloud Alibaba
 ### 其他框架
 #### Kafka
@@ -37,18 +47,38 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.
 #### Quartz定时任务
 #### Solr,ElasticSearch搜索引擎
 #### Activity工作流
-## 服务器
 #### Netty
-#### Tomcat
-#### Nginx
+
 ## 部署运维
 #### Linux
+- [Linux 常用命令](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Linux%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
+- [Linux 概念学习](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Linux%20%E6%A6%82%E5%BF%B5%E5%AD%A6%E4%B9%A0.md)
+
 #### Docker
-#### 代码仓库GitLab/持续集成GitLab-Runner
-#### 镜像仓库Nexus
-#### 依赖仓库Registry
-#### 自动化部署Jenkins
-#### 服务网格化Kubernetes
+- [Docker 启动mysql命令详解](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Docker%20%E5%90%AF%E5%8A%A8mysql%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3.md)
+- [Docker 安装和配置国内源](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Docker%20%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE%E5%9B%BD%E5%86%85%E6%BA%90.md)
+- [Docker 常用命令](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Docker%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
+- [Docker-Compose 在Linux上安装](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Docker-Compose%20%E5%9C%A8Linux%E4%B8%8A%E5%AE%89%E8%A3%85.md)
+- [Docker-Compose.yml集合](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Docker-Compose.yml%E9%9B%86%E5%90%88.md)
+
+#### GitLab/GitLab-Runner
+- [Gitlab 使用Gitlab-Runner持续集成代码](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Gitlab%20%E4%BD%BF%E7%94%A8Gitlab-Runner%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E4%BB%A3%E7%A0%81.md)
+- [Gitlab-Runner搭建持续集成平台](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Gitlab-Runner%E6%90%AD%E5%BB%BA%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E5%B9%B3%E5%8F%B0.md)
+
+#### Nexus
+#### Registry
+#### Jenkins
+- [Jenkins 基于 Docker 安装和配置](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Jenkins%20%E5%9F%BA%E4%BA%8E%20Docker%20%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE.md)
+- [Jenkins 持续交付项目](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Jenkins%20%E6%8C%81%E7%BB%AD%E4%BA%A4%E4%BB%98%E9%A1%B9%E7%9B%AE.md)
+
+#### Kubernetes
+#### DFS
+[FastDFS 搭建FastDFS文件上传服务器](https://github.com/a594645875/blog/blob/master/Deployment%20operations/FastDFS%20%E6%90%AD%E5%BB%BAFastDFS%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
+#### Tomcat
+#### Nginx
+[Nginx 使用Nginx解决跨域问题](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%20%E4%BD%BF%E7%94%A8Nginx%E8%A7%A3%E5%86%B3%E8%B7%A8%E5%9F%9F%E9%97%AE%E9%A2%98.md)
+[Nginx 搭建CDN服务器](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%20%E6%90%AD%E5%BB%BACDN%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
+
 ## 分布式架构方案
 #### 分布式任务调度平台
 #### 分布式Session一致性问题
@@ -62,6 +92,8 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节.
 #### Storm/JStorm
 ## 前端
 #### Vue
+- [Vue 之vue-cli安装](https://github.com/a594645875/blog/blob/master/Front%20end/Vue%20%E4%B9%8Bvue-cli%E5%AE%89%E8%A3%85.md)
+
 #### Bootstrap
 #### FreeMarker
 #### Thymeleaf
