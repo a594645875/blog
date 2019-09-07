@@ -7,14 +7,25 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节,构建�
 
 ##  Java基础
 - #### 基础知识
-[极客时间：杨晓峰-java核心技术36讲（未完成）](https://github.com/a594645875/blog/blob/master/Java%20base/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%EF%BC%9A%E6%9D%A8%E6%99%93%E5%B3%B0-java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF36%E8%AE%B2.md)    
-Demo [Java8Practice](https://github.com/a594645875/Java8Practice)    
+  [极客时间：杨晓峰-java核心技术36讲（未完成）](https://github.com/a594645875/blog/blob/master/Java%20base/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4%EF%BC%9A%E6%9D%A8%E6%99%93%E5%B3%B0-java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF36%E8%AE%B2.md)    
+  Demo [Java8Practice](https://github.com/a594645875/Java8Practice)    
+
+  [JDK8 函数式编程](https://github.com/a594645875/blog/blob/master/Java%20base/JDK8%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.md)
+
+  [值传递和地址传递问题](https://github.com/a594645875/blog/blob/master/Java%20base/%E5%80%BC%E4%BC%A0%E9%80%92%E5%92%8C%E5%9C%B0%E5%9D%80%E4%BC%A0%E9%80%92%E9%97%AE%E9%A2%98.md)
+
+  [成员变量和局部变量的区别](https://github.com/a594645875/blog/blob/master/Java%20base/%E6%88%90%E5%91%98%E5%8F%98%E9%87%8F%E5%92%8C%E5%B1%80%E9%83%A8%E5%8F%98%E9%87%8F%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
 - #### 集合
+
 - #### 工具类
+
 - #### 网络编程IO
-Demo基础IO练习 [IO-study](https://github.com/a594645875/IO-study)  
+  Demo基础IO练习 [IO-study](https://github.com/a594645875/IO-study)  
+
 - #### 多线程和并发
-Demo基础线程练习[Thread-study](https://github.com/a594645875/Thread-study)  
+  Demo基础线程练习[Thread-study](https://github.com/a594645875/Thread-study)  
+
 - #### JVM虚拟机
 [JVM深入理解-张龙（未完成）](https://github.com/a594645875/blog/blob/master/Java%20base/JVM%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-%E5%BC%A0%E9%BE%99.md)  
 
@@ -120,9 +131,14 @@ Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)
 - #### 自动化测试框架testNG
 ##  开发工具
 - #### IDEA
+
+  [IDEA快捷键](https://github.com/a594645875/blog/blob/master/Developer%20kits/IDEA%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
+
 - #### Git
-[Git 命令](https://github.com/a594645875/blog/blob/master/Developer%20kits/Git%20%E5%91%BD%E4%BB%A4.md)  
+  [Git 命令](https://github.com/a594645875/blog/blob/master/Developer%20kits/Git%20%E5%91%BD%E4%BB%A4.md)  
+
 - #### Maven
+
 - #### Gradle
 Demo [gradle](https://github.com/a594645875/gradle)  
 Demo [grovvy](https://github.com/a594645875/grovvy)  
