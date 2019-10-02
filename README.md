@@ -129,11 +129,17 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节,构建�
 ##  流行框架
 ### CRUD框架
 - #### Spring/SpringMVC/SpringBoot
+
+  [YAML语法](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/YAML%E8%AF%AD%E6%B3%95.md) 
+
+  [SpringBoot配置启动,加载,敏感字段加密](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/SpringBoot%E9%85%8D%E7%BD%AE%E5%90%AF%E5%8A%A8%2C%E5%8A%A0%E8%BD%BD%2C%E6%95%8F%E6%84%9F%E5%AD%97%E6%AE%B5%E5%8A%A0%E5%AF%86.md) 
+
 - #### Mybatis/MybatisPlus
-[Mybatis 开启二级缓存](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/Mybatis%20%E5%BC%80%E5%90%AF%E4%BA%8C%E7%BA%A7%E7%BC%93%E5%AD%98.md)  
-Demo代码生成器 [mp-generator](https://github.com/a594645875/mp-generator)  
-Demo [mybatis-plus-demo](https://github.com/a594645875/mybatis-plus-demo)  
-Demo [ssm-demo](https://github.com/a594645875/ssm-demo)  
+  [Mybatis 开启二级缓存](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/Mybatis%20%E5%BC%80%E5%90%AF%E4%BA%8C%E7%BA%A7%E7%BC%93%E5%AD%98.md)  
+  Demo代码生成器 [mp-generator](https://github.com/a594645875/mp-generator)  
+  Demo [mybatis-plus-demo](https://github.com/a594645875/mybatis-plus-demo)  
+  Demo [ssm-demo](https://github.com/a594645875/ssm-demo)  
+
 - #### Hibernate/JPA
 ### 权限框架
 - #### Shiro
@@ -147,10 +153,6 @@ Demo [spring-security-demo](https://github.com/a594645875/spring-security-demo)
 
   Demo [hello-spring-clould](https://github.com/a594645875/hello-spring-clould)  
   Demo [springclouddemo](https://github.com/a594645875/springclouddemo)   
-
-  [YAML语法](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/YAML%E8%AF%AD%E6%B3%95.md) 
-
-  [SpringBoot配置启动,加载,敏感字段加密](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/SpringBoot%E9%85%8D%E7%BD%AE%E5%90%AF%E5%8A%A8%2C%E5%8A%A0%E8%BD%BD%2C%E6%95%8F%E6%84%9F%E5%AD%97%E6%AE%B5%E5%8A%A0%E5%AF%86.md) 
 
 - #### Apache Dubbo  Zookeeper
   [Dubbo 开启高速序列化](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E5%BC%80%E5%90%AF%E9%AB%98%E9%80%9F%E5%BA%8F%E5%88%97%E5%8C%96.md)  
