@@ -144,14 +144,21 @@ Demo [shiro-demo](https://github.com/a594645875/shiro-demo)
 Demo [spring-security-demo](https://github.com/a594645875/spring-security-demo)  
 ### 微服务框架
 - #### Spring Cloud Netflix
-Demo [hello-spring-clould](https://github.com/a594645875/hello-spring-clould)  
-Demo [springclouddemo](https://github.com/a594645875/springclouddemo)  
+
+  Demo [hello-spring-clould](https://github.com/a594645875/hello-spring-clould)  
+  Demo [springclouddemo](https://github.com/a594645875/springclouddemo)   
+
+  [YAML语法](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/YAML%E8%AF%AD%E6%B3%95.md) 
+
+  [SpringBoot配置启动,加载,敏感字段加密](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/SpringBoot%E9%85%8D%E7%BD%AE%E5%90%AF%E5%8A%A8%2C%E5%8A%A0%E8%BD%BD%2C%E6%95%8F%E6%84%9F%E5%AD%97%E6%AE%B5%E5%8A%A0%E5%AF%86.md) 
+
 - #### Apache Dubbo  Zookeeper
-[Dubbo 开启高速序列化](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E5%BC%80%E5%90%AF%E9%AB%98%E9%80%9F%E5%BA%8F%E5%88%97%E5%8C%96.md)  
-[Dubbo 管理中心搭建](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83%E6%90%AD%E5%BB%BA.md)  
-[Dubbo 结合熔断器Hystrix](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%BB%93%E5%90%88%E7%86%94%E6%96%AD%E5%99%A8Hystrix.md)  
-[Zookeeper](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Zookeeper%20%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD.md)  
-Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)  
+  [Dubbo 开启高速序列化](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E5%BC%80%E5%90%AF%E9%AB%98%E9%80%9F%E5%BA%8F%E5%88%97%E5%8C%96.md)  
+  [Dubbo 管理中心搭建](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83%E6%90%AD%E5%BB%BA.md)  
+  [Dubbo 结合熔断器Hystrix](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%BB%93%E5%90%88%E7%86%94%E6%96%AD%E5%99%A8Hystrix.md)  
+  [Zookeeper](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Zookeeper%20%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD.md)  
+  Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)  
+
 - #### Spring Cloud Alibaba
 ### 其他框架
 - #### 消息队列Kafka,RabbitMQ
@@ -212,7 +219,11 @@ Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)
 - #### EasyUI
 ##  测试
 - #### 单元测试junit
+
+  [使用Mockito测试接口](https://github.com/a594645875/blog/blob/master/Test/Mockito%E6%B5%8B%E8%AF%95%E6%8E%A5%E5%8F%A3.txt)
+
 - #### 压力测试工具jmeter
+
 - #### 自动化测试框架testNG
 ##  开发工具
 - #### IDEA
@@ -252,4 +263,5 @@ SQL注入问题
 [踩过的坑之Spring-Cloud](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BSpring-Cloud.md)  
 [踩过的坑之日志框架](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8B%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6.md)  
 [踩坑记录之Webflux.md](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BWebflux.md)
+[踩过的坑之SpringBoot](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E4%B9%8BSpringBoot.md)
 
