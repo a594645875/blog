@@ -66,42 +66,48 @@ Java技能树,以树状的方式总结Java所需的技能和技术细节,构建�
 ### CRUD框架
 - #### Spring/SpringMVC/SpringBoot
 
-  [YAML语法](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/YAML%E8%AF%AD%E6%B3%95.md)   
+[YAML语法](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/YAML%E8%AF%AD%E6%B3%95.md)   
 
-  [SpringBoot配置启动,加载,敏感字段加密](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/SpringBoot%E9%85%8D%E7%BD%AE%E5%90%AF%E5%8A%A8%2C%E5%8A%A0%E8%BD%BD%2C%E6%95%8F%E6%84%9F%E5%AD%97%E6%AE%B5%E5%8A%A0%E5%AF%86.md)   
+[SpringBoot配置启动,加载,敏感字段加密](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/SpringBoot%E9%85%8D%E7%BD%AE%E5%90%AF%E5%8A%A8%2C%E5%8A%A0%E8%BD%BD%2C%E6%95%8F%E6%84%9F%E5%AD%97%E6%AE%B5%E5%8A%A0%E5%AF%86.md)   
 
-  [@Primary和@Qualifier，解決单接口多实现的冲突问题](https://blog.csdn.net/qq_16055765/article/details/78833260)  
+[@Primary和@Qualifier，解決单接口多实现的冲突问题](https://blog.csdn.net/qq_16055765/article/details/78833260)  
 
 - #### Mybatis/MybatisPlus
-  [Mybatis 开启二级缓存](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/Mybatis%20%E5%BC%80%E5%90%AF%E4%BA%8C%E7%BA%A7%E7%BC%93%E5%AD%98.md)  
-  Demo代码生成器 [mp-generator](https://github.com/a594645875/mp-generator)  
-  Demo [mybatis-plus-demo](https://github.com/a594645875/mybatis-plus-demo)  
-  Demo [ssm-demo](https://github.com/a594645875/ssm-demo)    
+
+[Mybatis 开启二级缓存](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/Mybatis%20%E5%BC%80%E5%90%AF%E4%BA%8C%E7%BA%A7%E7%BC%93%E5%AD%98.md)  
+Demo代码生成器 [mp-generator](https://github.com/a594645875/mp-generator)  
+Demo [mybatis-plus-demo](https://github.com/a594645875/mybatis-plus-demo)  
+Demo [ssm-demo](https://github.com/a594645875/ssm-demo)    
 
 - #### Hibernate/JPA
 
 - #### other
 
-  [对象转换工具Dozer](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7Dozer.md)    
+[对象转换工具Dozer](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7Dozer.md)    
+
 ### 权限框架
 - #### Shiro
+
 Demo [shiro-demo](https://github.com/a594645875/shiro-demo)  
 
 - #### JWT
 - #### Spring Security oAuth2
+
 Demo [spring-security-demo](https://github.com/a594645875/spring-security-demo)  
+
 ### 微服务框架
 - #### Spring Cloud Netflix
 
-  Demo [hello-spring-clould](https://github.com/a594645875/hello-spring-clould)  
-  Demo [springclouddemo](https://github.com/a594645875/springclouddemo)   
+Demo [hello-spring-clould](https://github.com/a594645875/hello-spring-clould)  
+Demo [springclouddemo](https://github.com/a594645875/springclouddemo)   
 
 - #### Apache Dubbo  Zookeeper
-  [Dubbo 开启高速序列化](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E5%BC%80%E5%90%AF%E9%AB%98%E9%80%9F%E5%BA%8F%E5%88%97%E5%8C%96.md)  
-  [Dubbo 管理中心搭建](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83%E6%90%AD%E5%BB%BA.md)  
-  [Dubbo 结合熔断器Hystrix](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%BB%93%E5%90%88%E7%86%94%E6%96%AD%E5%99%A8Hystrix.md)  
-  [Zookeeper](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Zookeeper%20%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD.md)  
-  Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)  
+
+[Dubbo 开启高速序列化](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E5%BC%80%E5%90%AF%E9%AB%98%E9%80%9F%E5%BA%8F%E5%88%97%E5%8C%96.md)  
+[Dubbo 管理中心搭建](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83%E6%90%AD%E5%BB%BA.md)  
+[Dubbo 结合熔断器Hystrix](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Dubbo%20%E7%BB%93%E5%90%88%E7%86%94%E6%96%AD%E5%99%A8Hystrix.md)  
+[Zookeeper](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/Microservice/Zookeeper%20%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD.md)  
+Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)  
 
 - #### Spring Cloud Alibaba
 ### 其他框架
@@ -114,16 +120,18 @@ Demo [spring-security-demo](https://github.com/a594645875/spring-security-demo)
 
 ##  部署运维
 - #### Linux
-  [Linux 常用命令](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Linux%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)  
-  [Linux 零散知识](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Linux%20%E9%9B%B6%E6%95%A3%E7%9F%A5%E8%AF%86.md)  
-  [CentOS 6.5设置lvs负载均衡](https://github.com/a594645875/blog/blob/master/Deployment%20operations/CentOS%206.5%E8%AE%BE%E7%BD%AElvs%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1.md)  
-  [CentOS 6.5设置静态网络](https://github.com/a594645875/blog/blob/master/Deployment%20operations/CentOS%206.5%E8%AE%BE%E7%BD%AE%E9%9D%99%E6%80%81%E7%BD%91%E7%BB%9C.md)  
-  [CentOS6.5安装TEngine（Nginx）](https://github.com/a594645875/blog/blob/master/Deployment%20operations/CentOS6.5%E5%AE%89%E8%A3%85TEngine%EF%BC%88Nginx%EF%BC%89.md)  
-  [Nginx配置反向代理和负载均衡](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%E9%85%8D%E7%BD%AE%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E5%92%8C%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1.md)    
 
-  [shell编程](https://github.com/a594645875/blog/blob/master/Deployment%20operations/shell%E7%BC%96%E7%A8%8B.md)
+[Linux 常用命令](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Linux%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)  
+[Linux 零散知识](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Linux%20%E9%9B%B6%E6%95%A3%E7%9F%A5%E8%AF%86.md)  
+[CentOS 6.5设置lvs负载均衡](https://github.com/a594645875/blog/blob/master/Deployment%20operations/CentOS%206.5%E8%AE%BE%E7%BD%AElvs%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1.md)  
+[CentOS 6.5设置静态网络](https://github.com/a594645875/blog/blob/master/Deployment%20operations/CentOS%206.5%E8%AE%BE%E7%BD%AE%E9%9D%99%E6%80%81%E7%BD%91%E7%BB%9C.md)  
+[CentOS6.5安装TEngine（Nginx）](https://github.com/a594645875/blog/blob/master/Deployment%20operations/CentOS6.5%E5%AE%89%E8%A3%85TEngine%EF%BC%88Nginx%EF%BC%89.md)  
+[Nginx配置反向代理和负载均衡](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%E9%85%8D%E7%BD%AE%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E5%92%8C%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1.md)    
+
+[shell编程](https://github.com/a594645875/blog/blob/master/Deployment%20operations/shell%E7%BC%96%E7%A8%8B.md)
 
 - #### Docker
+
 [Docker 启动mysql命令详解](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Docker%20%E5%90%AF%E5%8A%A8mysql%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3.md)  
 [Docker 安装和配置国内源](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Docker%20%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE%E5%9B%BD%E5%86%85%E6%BA%90.md)  
 [Docker 常用命令](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Docker%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)  
@@ -131,6 +139,7 @@ Demo [spring-security-demo](https://github.com/a594645875/spring-security-demo)
 [Docker-Compose.yml集合](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Docker-Compose.yml%E9%9B%86%E5%90%88.md)  
 
 - #### GitLab/GitLab-Runner
+
 [Gitlab 使用Gitlab-Runner持续集成代码](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Gitlab%20%E4%BD%BF%E7%94%A8Gitlab-Runner%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E4%BB%A3%E7%A0%81.md)  
 [Gitlab-Runner搭建持续集成平台](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Gitlab-Runner%E6%90%AD%E5%BB%BA%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E5%B9%B3%E5%8F%B0.md)  
 
@@ -139,17 +148,20 @@ Demo [spring-security-demo](https://github.com/a594645875/spring-security-demo)
 - #### Registry
 
 - #### Jenkins
+
 [Jenkins 基于 Docker 安装和配置](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Jenkins%20%E5%9F%BA%E4%BA%8E%20Docker%20%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE.md)  
 [Jenkins 持续交付项目](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Jenkins%20%E6%8C%81%E7%BB%AD%E4%BA%A4%E4%BB%98%E9%A1%B9%E7%9B%AE.md)  
 
 - #### Kubernetes
 
 - #### DFS
-  [FastDFS 搭建FastDFS文件上传服务器](https://github.com/a594645875/blog/blob/master/Deployment%20operations/FastDFS%20%E6%90%AD%E5%BB%BAFastDFS%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%9C%8D%E5%8A%A1%E5%99%A8.md)  
+
+[FastDFS 搭建FastDFS文件上传服务器](https://github.com/a594645875/blog/blob/master/Deployment%20operations/FastDFS%20%E6%90%AD%E5%BB%BAFastDFS%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%9C%8D%E5%8A%A1%E5%99%A8.md)  
 
 - #### Tomcat
 
 - #### Nginx
+
 [Nginx 使用Nginx解决跨域问题](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%20%E4%BD%BF%E7%94%A8Nginx%E8%A7%A3%E5%86%B3%E8%B7%A8%E5%9F%9F%E9%97%AE%E9%A2%98.md)  
 [Nginx 搭建CDN服务器](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%20%E6%90%AD%E5%BB%BACDN%E6%9C%8D%E5%8A%A1%E5%99%A8.md)  
 
@@ -162,7 +174,7 @@ Demo [spring-security-demo](https://github.com/a594645875/spring-security-demo)
 
 - #### 分布式事务解决方案  
 
-  [JTA多数据源的分布式事务解决方案](https://github.com/a594645875/blog/blob/master/Distributed%20architecture/JTA%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+[JTA多数据源的分布式事务解决方案](https://github.com/a594645875/blog/blob/master/Distributed%20architecture/JTA%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 
 - #### 分布式日志收集
 
@@ -173,6 +185,7 @@ Demo [spring-security-demo](https://github.com/a594645875/spring-security-demo)
 - #### Storm/JStorm
 ##  前端
 - #### Vue
+
 [Vue-cli的安装](https://github.com/a594645875/blog/blob/master/Front%20end/Vue%20%E4%B9%8Bvue-cli%E5%AE%89%E8%A3%85.md)  
 
 - #### Bootstrap
@@ -182,7 +195,7 @@ Demo [spring-security-demo](https://github.com/a594645875/spring-security-demo)
 ##  测试
 - #### 单元测试junit
 
-  [使用Mockito测试接口](https://github.com/a594645875/blog/blob/master/Test/Mockito%E6%B5%8B%E8%AF%95%E6%8E%A5%E5%8F%A3.txt)
+[使用Mockito测试接口](https://github.com/a594645875/blog/blob/master/Test/Mockito%E6%B5%8B%E8%AF%95%E6%8E%A5%E5%8F%A3.txt)
 
 - #### 压力测试工具jmeter
 
@@ -190,17 +203,22 @@ Demo [spring-security-demo](https://github.com/a594645875/spring-security-demo)
 ##  开发工具
 - #### IDEA
 - #### Git
+
 [Git 命令](https://github.com/a594645875/blog/blob/master/Developer%20kits/Git%20%E5%91%BD%E4%BB%A4.md)  
+
 - #### Maven
 - #### Gradle
+
 Demo [gradle](https://github.com/a594645875/gradle)  
 Demo [grovvy](https://github.com/a594645875/grovvy)  
+
 ##  其他知识
 - #### 设计模式
 - #### 算法和数据结构
 - #### HTTP
 - #### TCP/IP
 - #### 网络安全
+
 XSS  
 SQL注入问题  
 防盗链  
@@ -208,6 +226,7 @@ SQL注入问题
 互联网API接口安全设计  
 安全加密方案  
 非对称与对称加密的使用  
+
 ## 踩坑集锦
 [踩坑的坑之Dubbo](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BDubbo.md)  
 [踩坑的坑之Thymeleaf](https://github.com/a594645875/blog/blob/master/Bugs/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95%E4%B9%8BThymeleaf.md)  
