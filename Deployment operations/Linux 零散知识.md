@@ -73,3 +73,15 @@ deb-src http://mirrors.aliyun.com/ubuntu/ bionic-proposed main restricted univer
 apt-get update
 ```
 连接软件源为`xxx.aliyun.xxx`则表示更换成功
+
+#### CentOS 使用scp命令传送文件
+
+要先安装`yum -y install openssh-clients`
+
+ 本地复制到远程方式：  `scp /home/1.jpg root@192.168.0.200:/home/`
+
+ 将远程文件复制到本地 命令格式（这里只说一种）：  `scp root@192.168.0.200:/home/1.jpg /home/`
+
+#### CentOS 查看端口占用
+
+查詢端口占用 `netstat -nltp|grep 80`
