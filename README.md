@@ -223,7 +223,7 @@ Demo [grovvy](https://github.com/a594645875/grovvy)
 ##  其他知识
 - #### 设计模式
 
-[7大设计原则](https://github.com/a594645875/blog/blob/master/Other/7%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99.txt)  
+[7大设计原则](https://github.com/a594645875/blog/blob/master/Other/7%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99.md)  
 [UML结构详解](https://github.com/a594645875/blog/blob/master/Other/UML%E7%BB%93%E6%9E%84%E8%AF%A6%E8%A7%A3.md)
 
 - #### 算法和数据结构
