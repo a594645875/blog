@@ -132,7 +132,7 @@ Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)
 [Linux 零散知识](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Linux%20%E9%9B%B6%E6%95%A3%E7%9F%A5%E8%AF%86.md)  
 [CentOS 6.5设置lvs负载均衡](https://github.com/a594645875/blog/blob/master/Deployment%20operations/CentOS%206.5%E8%AE%BE%E7%BD%AElvs%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1.md)  
 [CentOS 6.5设置静态网络](https://github.com/a594645875/blog/blob/master/Deployment%20operations/CentOS%206.5%E8%AE%BE%E7%BD%AE%E9%9D%99%E6%80%81%E7%BD%91%E7%BB%9C.md)  
-[CentOS6.5安装TEngine（Nginx）](https://github.com/a594645875/blog/blob/master/Deployment%20operations/CentOS6.5%E5%AE%89%E8%A3%85TEngine%EF%BC%88Nginx%EF%BC%89.md)  
+[CentOS 6.5安装TEngine（Nginx）](https://github.com/a594645875/blog/blob/master/Deployment%20operations/CentOS6.5%E5%AE%89%E8%A3%85TEngine%EF%BC%88Nginx%EF%BC%89.md)  
 [Nginx配置反向代理和负载均衡](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%E9%85%8D%E7%BD%AE%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E5%92%8C%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1.md)   
 [shell编程](https://github.com/a594645875/blog/blob/master/Deployment%20operations/shell%E7%BC%96%E7%A8%8B.md)
 
