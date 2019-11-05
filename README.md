@@ -85,6 +85,7 @@ Demo基础线程练习[Thread-study](https://github.com/a594645875/Thread-study)
 Demo代码生成器 [mp-generator](https://github.com/a594645875/mp-generator)  
 Demo [mybatis-plus-demo](https://github.com/a594645875/mybatis-plus-demo)  
 Demo [ssm-demo](https://github.com/a594645875/ssm-demo)    
+[Mybatis插入json数据到pgsql](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/Mybatis%E6%8F%92%E5%85%A5json%E6%95%B0%E6%8D%AE%E5%88%B0pgsql.md)
 
 - #### Hibernate/JPA
 
@@ -134,7 +135,8 @@ Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)
 [CentOS 6.5设置静态网络](https://github.com/a594645875/blog/blob/master/Deployment%20operations/CentOS%206.5%E8%AE%BE%E7%BD%AE%E9%9D%99%E6%80%81%E7%BD%91%E7%BB%9C.md)  
 [CentOS 6.5安装TEngine（Nginx）](https://github.com/a594645875/blog/blob/master/Deployment%20operations/CentOS6.5%E5%AE%89%E8%A3%85TEngine%EF%BC%88Nginx%EF%BC%89.md)  
 [Nginx配置反向代理和负载均衡](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%E9%85%8D%E7%BD%AE%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E5%92%8C%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1.md)   
-[shell编程](https://github.com/a594645875/blog/blob/master/Deployment%20operations/shell%E7%BC%96%E7%A8%8B.md)
+[shell编程](https://github.com/a594645875/blog/blob/master/Deployment%20operations/shell%E7%BC%96%E7%A8%8B.md)  
+[Nginx Tomcat 使用Memcache保证session一致性（未完成）](https://github.com/a594645875/blog/blob/master/Deployment%20operations/Nginx%20Tomcat%20%E4%BD%BF%E7%94%A8Memcache%E4%BF%9D%E8%AF%81session%E4%B8%80%E8%87%B4%E6%80%A7.md)
 
 - #### Docker
 
@@ -220,9 +222,16 @@ Demo [grovvy](https://github.com/a594645875/grovvy)
 
 ##  其他知识
 - #### 设计模式
+
+[7大设计原则](https://github.com/a594645875/blog/blob/master/Other/7%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99.txt)  
+[UML结构详解](https://github.com/a594645875/blog/blob/master/Other/UML%E7%BB%93%E6%9E%84%E8%AF%A6%E8%A7%A3.md)
+
 - #### 算法和数据结构
+
 - #### HTTP
+
 - #### TCP/IP
+
 - #### 网络安全
 
 XSS  
