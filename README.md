@@ -210,21 +210,29 @@ Demo [hello-dubbo](https://github.com/a594645875/hello-dubbo)
 - #### 自动化测试框架testNG
 ##  开发工具
 - #### IDEA
+
 - #### Git
 
+[IDEA进行多线程Debug](https://github.com/a594645875/blog/blob/master/Developer%20kits/IDEA%E8%BF%9B%E8%A1%8C%E5%A4%9A%E7%BA%BF%E7%A8%8BDebug.md)  
 [Git 命令](https://github.com/a594645875/blog/blob/master/Developer%20kits/Git%20%E5%91%BD%E4%BB%A4.md)  
 
 - #### Maven
 - #### Gradle
 
 Demo [gradle](https://github.com/a594645875/gradle)  
-Demo [grovvy](https://github.com/a594645875/grovvy)  
+Demo [grovvy](https://github.com/a594645875/grovvy)    
+
+- Other
+
+[反编译工具Jad的使用](https://github.com/a594645875/blog/blob/master/Developer%20kits/%E5%8F%8D%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7Jad%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 
 ##  其他知识
 - #### 设计模式
 
 [7大设计原则](https://github.com/a594645875/blog/blob/master/Other/7%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99.md)  
-[UML结构详解](https://github.com/a594645875/blog/blob/master/Other/UML%E7%BB%93%E6%9E%84%E8%AF%A6%E8%A7%A3.md)
+[UML结构详解](https://github.com/a594645875/blog/blob/master/Other/UML%E7%BB%93%E6%9E%84%E8%AF%A6%E8%A7%A3.md)  
+[单例模式特辑](https://github.com/a594645875/blog/blob/master/Other/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F%E7%89%B9%E8%BE%91.md)  
+[设计模式概念](https://github.com/a594645875/blog/blob/master/Other/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%A6%82%E5%BF%B5.md)
 
 - #### 算法和数据结构
 
