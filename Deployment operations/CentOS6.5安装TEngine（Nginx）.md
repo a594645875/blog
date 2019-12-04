@@ -1,18 +1,20 @@
-要点，先安装编译器、pcre库、openssl库
+### 要点，先安装编译器、pcre库、openssl库
 
-1.安装编译器，输入命令
+#### 1.安装编译器，输入命令
 
 yum install gcc
 
-2.安装pcre库
+#### 2.安装pcre库
 
 yum  install pcre-devel
 
-3.安装openssl库
+#### 3.安装openssl库
 
 yum install openssl-devel
 
 (快捷命令:`yum install gcc pcre-devel openssl-devel -y`)
+
+### 正式安装
 
 1.下载TEngine，tengine-1.5.2.tar.gz，放到目录/home/tengine下
 

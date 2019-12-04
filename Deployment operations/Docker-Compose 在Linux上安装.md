@@ -11,3 +11,4 @@ curl -L https://github.com/docker/compose/releases/download/1.25.0-rc1/docker-co
 
 加上运行权限
 chmod +x /usr/local/bin/docker-compose
+
