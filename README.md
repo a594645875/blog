@@ -91,7 +91,10 @@ Demo [ssm-demo](https://github.com/a594645875/ssm-demo)
 
 - #### other
 
-[对象转换工具Dozer](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7Dozer.md)    
+[对象转换工具Dozer](https://github.com/a594645875/blog/blob/master/Popular%20frameworks/CRUD/%E5%AF%B9%E8%B1%A1%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7Dozer.md)  
+[Jackson序列化日期或枚举，以及常用注解Demo](https://github.com/a594645875/jackson-demo)
+
+
 
 ### 权限框架
 - #### Shiro
